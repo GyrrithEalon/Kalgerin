@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ebb167b8943214b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,10 +146,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ebb167b8943214b1",
+  "active": "52a1cb5b6a54b420",
   "lastOpenFiles": [
-    "World's Creation/Creation of a Continents.md",
+    "Campaigns/3 Horde of the Dragon Queen/3 Horde of the Dragon Queen.md",
+    "Campaigns/2 Captain Raven and Co. Journey/2 Captain Raven and Co. Journey.md",
+    "Campaigns/1 The Reforging of Khundracor/1 The Reforging of Khundracor.md",
     "README.md",
-    "World's Creation"
+    "Campaigns/1 The Reforging of Khundracor/_about_.md",
+    "The Reforging of Khundracor.md",
+    "Campaigns/3 Horde of the Dragon Queen/NPC",
+    "Campaigns/3 Horde of the Dragon Queen/Impacts on the world",
+    "Campaigns/3 Horde of the Dragon Queen/Characters",
+    "Campaigns/2 Captain Raven and Co. Journey/NPC",
+    "Campaigns/2 Captain Raven and Co. Journey/Impacts on the world",
+    "Campaigns/2 Captain Raven and Co. Journey/Characters",
+    "Campaigns/1 The Reforging of Khundracor/Impacts on the world",
+    "Campaigns/1 The Reforging of Khundracor/New folder",
+    "Campaigns/1 The Reforging of Khundracor/NPC",
+    "Campaigns/1 The Reforging of Khundracor/Characters",
+    "World's Creation/Creation of a Continents.md"
   ]
 }
