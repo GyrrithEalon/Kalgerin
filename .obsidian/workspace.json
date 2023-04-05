@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "e5aec29bb8b72dfc",
+    "id": "7a6de34c8f61735c",
     "type": "split",
     "children": [
       {
-        "id": "26e23890aa30a973",
+        "id": "75f02a5db60a32cd",
         "type": "tabs",
         "children": [
           {
-            "id": "6ccf1a5acba085dc",
+            "id": "435be2b58e0f9677",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "060b3f8915b036df",
+    "id": "56f916a35de3fefc",
     "type": "split",
     "children": [
       {
-        "id": "27d455a6794cbed4",
+        "id": "df655675c7c4efdb",
         "type": "tabs",
         "children": [
           {
-            "id": "52a1cb5b6a54b420",
+            "id": "8aa0cf78d7834fef",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "f21b87197f5c72de",
+            "id": "1863ca6bc069754c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "fafc523898d128d6",
+            "id": "16c54ac9eefba24e",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -72,15 +72,15 @@
     "width": 300
   },
   "right": {
-    "id": "ac5238f5f7d79ed4",
+    "id": "94b869b6cf322e27",
     "type": "split",
     "children": [
       {
-        "id": "c37d1448510e2d51",
+        "id": "4b2e9b6919a978e1",
         "type": "tabs",
         "children": [
           {
-            "id": "87233d060b5a6b20",
+            "id": "24d7bbdaa0f17527",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -97,7 +97,7 @@
             }
           },
           {
-            "id": "aac120f88bba1d12",
+            "id": "4932dc7bf7bc8192",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -109,7 +109,7 @@
             }
           },
           {
-            "id": "13cb195e8c349b99",
+            "id": "7ec3c83dedf45ec1",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,7 +120,7 @@
             }
           },
           {
-            "id": "45ef9f2f4d220068",
+            "id": "a8276cee043026b3",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -146,24 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "52a1cb5b6a54b420",
+  "active": "435be2b58e0f9677",
   "lastOpenFiles": [
+    "World's Creation/Creation of a Continents.md",
+    "World's Creation",
+    "README.md",
     "Campaigns/3 Horde of the Dragon Queen/3 Horde of the Dragon Queen.md",
     "Campaigns/2 Captain Raven and Co. Journey/2 Captain Raven and Co. Journey.md",
     "Campaigns/1 The Reforging of Khundracor/1 The Reforging of Khundracor.md",
-    "README.md",
-    "Campaigns/1 The Reforging of Khundracor/_about_.md",
-    "The Reforging of Khundracor.md",
-    "Campaigns/3 Horde of the Dragon Queen/NPC",
-    "Campaigns/3 Horde of the Dragon Queen/Impacts on the world",
-    "Campaigns/3 Horde of the Dragon Queen/Characters",
-    "Campaigns/2 Captain Raven and Co. Journey/NPC",
-    "Campaigns/2 Captain Raven and Co. Journey/Impacts on the world",
-    "Campaigns/2 Captain Raven and Co. Journey/Characters",
-    "Campaigns/1 The Reforging of Khundracor/Impacts on the world",
-    "Campaigns/1 The Reforging of Khundracor/New folder",
-    "Campaigns/1 The Reforging of Khundracor/NPC",
-    "Campaigns/1 The Reforging of Khundracor/Characters",
-    "World's Creation/Creation of a Continents.md"
+    "Campaigns/3 Horde of the Dragon Queen",
+    "Campaigns/2 Captain Raven and Co. Journey",
+    "Campaigns/1 The Reforging of Khundracor",
+    "Campaigns"
   ]
 }
